@@ -4,5 +4,5 @@
 
 - Options Breakdown
 
-`--no-cast : disables casting/conversion of inferred data types`
-`--union-cols : specifies the amount of columns used for union queries`
+`{{--no-cast}} : disables casting/conversion of inferred data types`
+`{{--union-cols}} : specifies the amount of columns used for union queries`
